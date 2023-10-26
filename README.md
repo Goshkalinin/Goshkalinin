@@ -1,13 +1,18 @@
 ## 🚀 Hello!
-I'm Igor Kalinin, a junior Python developer, based in Yerevan. I'm currently honing my Python skills while also learning C/C++.  
+I'm Igor Kalinin, a junior Python developer, based in Yerevan.
+
+Сurrently honing my Python skills while also learning C/C++.  
 My Python adventure began a couple of years ago when i started automating 3D modeling tasks.
 
-I created Blender 3D scripts for batch transforming, rendering, and exporting 3D models.  
-I also began working on scripts for generating math-based shapes.  
+Created Blender 3D scripts for batch transforming, rendering, and exporting 3D models.  
+I have been working on scripts for generating math-based shapes also.  
 
 Now, I'm writing things like Telegram bots, automating simple tasks, and more.
 
-**Get in touch:**  
+My latest task is to create a script that generates a CSV file for Google Ads with GPT-generated descriptions for hundreds of thousands hardware products.  
+I believe, I've saved my customer about a month's worth of time.
+
+**Reach me:**  
 tg: @GoshkaDesign  
 mail: goshkalinin@gmail.com  
 linkedin: [linkedin.com/in/goshka](https://www.linkedin.com/in/goshka/)  
