@@ -12,9 +12,9 @@ Now, I'm writing things like Telegram bots, automating simple tasks, and more.
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## ✍ Articles & Translations
-[Barev Dzez! Сделал помогалку в изучении армянского алфавита (Статья)](https://habr.com/ru/articles/671130/)
-[Меши с Python & Blender: икосферы (Перевод)](https://habr.com/ru/articles/647193/)
-[PyWinAuto + Maya 3D — записки начинающего автоматизатора (Статья)](https://habr.com/ru/articles/675264/)
+- [Barev Dzez! Сделал помогалку в изучении армянского алфавита (Статья)](https://habr.com/ru/articles/671130/)
+- [Меши с Python & Blender: икосферы (Перевод)](https://habr.com/ru/articles/647193/)
+- [PyWinAuto + Maya 3D — записки начинающего автоматизатора (Статья)](https://habr.com/ru/articles/675264/)
 
 More on [my Habr.](https://habr.com/ru/users/goshkalinin/)
 
