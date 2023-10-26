@@ -1,5 +1,4 @@
 ## 👋 Hello!
-----
 I'm Igor Kalinin, a junior Python developer. I'm currently honing my Python skills while also learning C/C++. My Python adventure began a couple of years ago when i started automating 3D modeling tasks.
 
 I created Blender 3D scripts for batch transforming, rendering, and exporting 3D models. I also began working on scripts for generating math-based shapes.
@@ -7,11 +6,12 @@ I created Blender 3D scripts for batch transforming, rendering, and exporting 3D
 Now, I'm writing things like Telegram bots, automating simple tasks, and more.
 
 ## 🛠️ Tools
-----
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## ✍ Articles & Translations
-----
 [Barev Dzez! Сделал помогалку в изучении армянского алфавита (Статья)](https://habr.com/ru/articles/671130/)
 [Меши с Python & Blender: икосферы (Перевод)](https://habr.com/ru/articles/647193/)
 [PyWinAuto + Maya 3D — записки начинающего автоматизатора (Статья)](https://habr.com/ru/articles/675264/)
@@ -19,7 +19,6 @@ Now, I'm writing things like Telegram bots, automating simple tasks, and more.
 More on [my Habr.](https://habr.com/ru/users/goshkalinin/)
 
 ## 🧑‍🏫 Instructor
-----
 - Vector graphics intensives, 2017, author and presenter
 - CNC laser production intensives, 2017, author and presenter
 - Modeling and prototyping, 2018, full course, IT HUB college, author and presenter
