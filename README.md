@@ -32,7 +32,7 @@ call: +374 953 187 52
 - Меши с Python & Blender: икосферы [(Перевод)](https://habr.com/ru/articles/647193/)
 - PyWinAuto + Maya 3D — записки начинающего автоматизатора [(Статья)](https://habr.com/ru/articles/675264/)
 
-More on [my Habr.](https://habr.com/ru/users/goshkalinin/)
+- **More on [my Habr.](https://habr.com/ru/users/goshkalinin/)**
 
 ## 🧑‍🏫 Instructor
 - Vector graphics intensives, 2017, author and presenter
