@@ -1,9 +1,16 @@
-## 👋 Hello!
-I'm Igor Kalinin, a junior Python developer. I'm currently honing my Python skills while also learning C/C++. My Python adventure began a couple of years ago when i started automating 3D modeling tasks.
+## 🚀 Hello!
+I'm Igor Kalinin, a junior Python developer, based in Yerevan. I'm currently honing my Python skills while also learning C/C++. My Python adventure began a couple of years ago when i started automating 3D modeling tasks.
 
 I created Blender 3D scripts for batch transforming, rendering, and exporting 3D models. I also began working on scripts for generating math-based shapes.
 
 Now, I'm writing things like Telegram bots, automating simple tasks, and more.
+
+Get in touch:
+tg: @GoshkaDesign
+call: +374 953 187 52
+mail: goshkalinin@gmail.com
+linkedin: [linkedin.com/in/goshka](https://www.linkedin.com/in/goshka/)
+signal: +374 953 187 52
 
 ## 🛠️ Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
