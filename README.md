@@ -1,5 +1,5 @@
 ## 🚀 Hello!
-I'm Igor Kalinin, a junior Python developer, based in Yerevan.
+I'm Igor Kalinin, a junior Python developer, based in Yerevan, Armenia.
 
 Сurrently honing my Python skills while also learning C/C++.  
 My Python adventure began a couple of years ago when i started automating 3D modeling tasks.
