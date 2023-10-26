@@ -5,12 +5,12 @@ I created Blender 3D scripts for batch transforming, rendering, and exporting 3D
 
 Now, I'm writing things like Telegram bots, automating simple tasks, and more.
 
-Get in touch:
-tg: @GoshkaDesign
-mail: goshkalinin@gmail.com
-linkedin: [linkedin.com/in/goshka](https://www.linkedin.com/in/goshka/)
-signal: +374 953 187 52
-call: +374 953 187 52
+Get in touch:  
+tg: @GoshkaDesign  
+mail: goshkalinin@gmail.com  
+linkedin: [linkedin.com/in/goshka](https://www.linkedin.com/in/goshka/)  
+signal: +374 953 187 52  
+call: +374 953 187 52  
 
 ## 🛠️ Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
