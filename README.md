@@ -15,7 +15,6 @@ I believe, I've saved my customer about a month's worth of time.
 **Reach me:**  
 tg: @GoshkaDesign  
 mail: goshkalinin@gmail.com  
-linkedin: [linkedin.com/in/goshka](https://www.linkedin.com/in/goshka/)  
 signal: +374 953 187 52  
 call: +374 953 187 52  
 
