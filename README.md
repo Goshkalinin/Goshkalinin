@@ -7,6 +7,7 @@ Now, I'm writing things like Telegram bots, automating simple tasks, and more.
 
 Get in touch:
 tg: @GoshkaDesign
+
 call: +374 953 187 52
 mail: goshkalinin@gmail.com
 linkedin: [linkedin.com/in/goshka](https://www.linkedin.com/in/goshka/)
