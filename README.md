@@ -5,7 +5,7 @@ I created Blender 3D scripts for batch transforming, rendering, and exporting 3D
 
 Now, I'm writing things like Telegram bots, automating simple tasks, and more.
 
-Get in touch:  
+**Get in touch:**  
 tg: @GoshkaDesign  
 mail: goshkalinin@gmail.com  
 linkedin: [linkedin.com/in/goshka](https://www.linkedin.com/in/goshka/)  
