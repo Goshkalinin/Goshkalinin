@@ -14,7 +14,7 @@ I believe, I've saved my customer about a month's worth of time.
 
 Upon arriving in Yerevan, I created a telegram bot that generates and posts the Armenian alphabet. This helped me and a thousand other expats get accustomed to the Armenian script. The project is currently on hold.
 
-Now I'm working on a bot for [EcoParsek](https://yrvn.am/ru/). It will collect feedback for Armenia's eco-map, including new recycling points and the like.
+Now I'm working on a bot for [EcoParsek](https://yrvn.am/ru/){:target="_blank"}. It will collect feedback for Armenia's eco-map, including new recycling points and the like.
 
 **Reach me:**  
 tg: @GoshkaDesign  
