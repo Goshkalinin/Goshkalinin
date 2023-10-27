@@ -45,8 +45,6 @@ call: +374 953 187 52
 - Series of videotutorials for MISIS, Blender 3D, 2021, author and presenter
 - Series of videotutorials for ITMO, Blender 3D, 2023, author and presenter [(link)](https://www.youtube.com/playlist?list=PLNL41_b9lv7F3NjnipJQN5nMzfNMSa7HH)
 
-## 🗂️ Highlight Projects
-
 
 <!--
 **Goshkalinin/Goshkalinin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
