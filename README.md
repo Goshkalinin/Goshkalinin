@@ -7,10 +7,14 @@ My Python adventure began a couple of years ago when i started automating 3D mod
 Created Blender 3D scripts for batch transforming, rendering, and exporting 3D models.  
 I have been working on scripts for generating math-based shapes also.  
 
-Now, I'm writing things like Telegram bots, automating simple tasks, and more.
+Now, I'm writing things like telegram bots, automating simple tasks, and more.
 
 My latest task is to create a script that generates a CSV file for Google Ads with GPT-generated descriptions for hundreds of thousands hardware products.  
 I believe, I've saved my customer about a month's worth of time.
+
+Upon arriving in Yerevan, I created a telegram bot that generates and posts the Armenian alphabet. This helped me and a thousand other expats get accustomed to the Armenian script. The project is currently on hold.
+
+Now I'm working on a bot for [EcoParsek](https://yrvn.am/ru/). It will collect feedback for Armenia's eco-map, including new recycling points and the like.
 
 **Reach me:**  
 tg: @GoshkaDesign  
