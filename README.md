@@ -9,18 +9,18 @@ I have been working on scripts for generating math-based shapes also.
 
 Now, I'm writing things like telegram bots, automating simple tasks, and more.
 
-My latest task is to create a script that generates a CSV file for Google Ads with GPT-generated descriptions for hundreds of thousands hardware products.
+My latest task is to create a script that generates a CSV file for Google Ads with GPT-generated descriptions for hundreds of thousands hardware products. We had an issue with slow responses from GPT, and I resolved it by breaking down the requests into separate processes.
 I believe, I've saved my customer about a month's worth of time.
 
 Upon arriving in Yerevan, I created a telegram bot that generates and posts the Armenian alphabet. This helped me and a thousand other expats get accustomed to the Armenian script. The project is currently on hold.
 
-Now I'm working on a bot for [EcoParsek](https://yrvn.am/ru/){:target="_blank"}. It will collect feedback for Armenia's eco-map, including new recycling points and the like.
+Now I'm working on a bot for [EcoParsek](https://yrvn.am/ru/). It will collect feedback for Armenia's eco-map, including new recycling points and the like. Here, I'm working with finite state machines, the Telegram library, and pushing the results to Directus (CMS).
 
-**Reach me:**  
-tg: @GoshkaDesign  
-mail: goshkalinin@gmail.com  
-signal: +374 953 187 52  
-call: +374 953 187 52  
+**Reach me:**
+tg: @GoshkaDesign
+mail: goshkalinin@gmail.com
+signal: +374 953 187 52
+call: +374 953 187 52
 
 ## 🛠️ Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
