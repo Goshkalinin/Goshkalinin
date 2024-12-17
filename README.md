@@ -17,7 +17,7 @@ Upon arriving in Yerevan, I created a telegram bot that generates and posts the 
 Now I'm working on a bot for [EcoParsek](https://yrvn.am/ru/). It will collect feedback for Armenia's eco-map, including new recycling points and the like. Here, I'm working with finite state machines, the Telegram library, and pushing the results to Directus (CMS).
 
 **Reach me:**  
-tg: @GoshkaDesignwwwa  
+tg: @GoshkaDesign  
 mail: goshkalinin@gmail.com  
 signal: +374 953 187 52  
 call: +374 953 187 52  
